@@ -1,0 +1,13 @@
+type: armored_vehicles
+crafter: cybertech
+inputs:
+  - component: cybertech/premium_duranium
+    amount: 8
+  - component: cybertech/electrum
+    amount: 6
+  - component: cybertech/mythra
+    amount: 4
+  - component: cybertech/farium
+    amount: 4
+  - component: cybertech/polished_aluminium
+    amount: 4

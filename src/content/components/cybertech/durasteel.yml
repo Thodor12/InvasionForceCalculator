@@ -1,0 +1,9 @@
+name: Durasteel Cyber Assembly Component
+crafter: cybertech
+materials:
+  - material: scavenging/scavenged_metals/durasteel
+    amount: 2
+  - material: scavenging/scavenged_compounds/zal_alloy
+    amount: 2
+  - material: scavenging/crafting_materials/thermoplast_flux
+    amount: 2

@@ -1,0 +1,13 @@
+type: armored_vehicles
+crafter: armormech
+inputs:
+  - component: armormech/premium_duranium
+    amount: 8
+  - component: armormech/electrum
+    amount: 6
+  - component: armormech/mythra
+    amount: 4
+  - component: armormech/farium
+    amount: 4
+  - component: armormech/polished_aluminium
+    amount: 4

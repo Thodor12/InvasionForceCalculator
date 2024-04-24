@@ -1,0 +1,9 @@
+name: Parasitic Cell Graft
+crafter: biochem
+materials:
+  - material: bioanalysis/biochemical_sample/parasitic_microorganism
+    amount: 2
+  - material: bioanalysis/biochemical_compound/nutrient_gel
+    amount: 2
+  - material: bioanalysis/medical_equipment/memory_plastic
+    amount: 2

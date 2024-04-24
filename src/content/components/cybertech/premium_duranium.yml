@@ -1,0 +1,9 @@
+name: Premium Duranium Cyber Assembly Component
+crafter: cybertech
+materials:
+  - material: scavenging/scavenged_metals/premium_duranium_plating
+    amount: 6
+  - material: scavenging/scavenged_compounds/premium_tempersteel
+    amount: 6
+  - material: scavenging/crafting_materials/standard_flevorium_flux
+    amount: 8

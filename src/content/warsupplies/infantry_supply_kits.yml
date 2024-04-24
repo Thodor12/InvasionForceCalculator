@@ -1,0 +1,4 @@
+name: Infantry Supply Kits
+crafters:
+  - biochem
+note: Recipe is based on the grade 11 craft for "Premium Curious Cell Craft", due to grade 11 materials being easier obtainable than grade 10. Reason <a href="https://swtorista.com/articles/crafting-materials-gathering-guide-by-all-planets-and-material-grades/#fresh-toxic-extract">here</a>.

@@ -1,0 +1,9 @@
+name: Mythra Cyber Assembly Component
+crafter: cybertech
+materials:
+  - material: scavenging/scavenged_metals/mythra
+    amount: 2
+  - material: scavenging/scavenged_compounds/turadium
+    amount: 2
+  - material: scavenging/crafting_materials/tricopper_flux
+    amount: 2

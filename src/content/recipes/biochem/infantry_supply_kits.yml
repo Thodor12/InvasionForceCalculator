@@ -1,0 +1,13 @@
+type: infantry_supply_kits
+crafter: biochem
+inputs:
+  - component: biochem/parasitic
+    amount: 6
+  - component: biochem/metabolic
+    amount: 4
+  - component: biochem/anodyne
+    amount: 4
+  - component: biochem/fresh_red
+    amount: 4
+  - component: biochem/premium_curious
+    amount: 8

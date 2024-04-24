@@ -1,0 +1,9 @@
+name: Anodyne Cell Graft
+crafter: biochem
+materials:
+  - material: bioanalysis/biochemical_sample/anodyne_extract
+    amount: 2
+  - material: bioanalysis/biochemical_compound/metamorphic_cell_culture
+    amount: 2
+  - material: bioanalysis/medical_equipment/nervesplicer
+    amount: 2

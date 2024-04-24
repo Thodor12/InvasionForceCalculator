@@ -1,0 +1,9 @@
+name: Polished Plasteel Arms Assembly Component
+crafter: armstech
+materials:
+  - material: scavenging/scavenged_metals/polished_plasteel
+    amount: 2
+  - material: scavenging/scavenged_compounds/polished_chanlon
+    amount: 2
+  - material: scavenging/crafting_materials/protonic_flux
+    amount: 2

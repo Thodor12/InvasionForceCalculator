@@ -1,0 +1,13 @@
+type: starship_weapons
+crafter: cybertech
+inputs:
+  - component: cybertech/polished_plasteel
+    amount: 4
+  - component: cybertech/bondite
+    amount: 6
+  - component: cybertech/farium
+    amount: 4
+  - component: cybertech/durasteel
+    amount: 4
+  - component: cybertech/polished_aluminium
+    amount: 4

@@ -1,0 +1,9 @@
+name: Farium Armor Assembly Component
+crafter: armormech
+materials:
+  - material: scavenging/scavenged_metals/farium
+    amount: 2
+  - material: scavenging/scavenged_compounds/molytex
+    amount: 2
+  - material: scavenging/crafting_materials/vanadium_flux
+    amount: 2

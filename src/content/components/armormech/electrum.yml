@@ -1,0 +1,9 @@
+name: Electrum Armor Assembly Component
+crafter: armormech
+materials:
+  - material: scavenging/scavenged_metals/electrum
+    amount: 2
+  - material: scavenging/scavenged_compounds/polyplast
+    amount: 2
+  - material: scavenging/crafting_materials/brazing_flux
+    amount: 2

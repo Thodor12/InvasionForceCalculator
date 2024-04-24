@@ -1,0 +1,9 @@
+name: Firkrann Synth Bonded Attachment
+crafter: synthweaving
+materials:
+  - material: archaeology/power_crystals/firkrann
+    amount: 2
+  - material: archaeology/artifact_fragments/galactic
+    amount: 2
+  - material: archaeology/crafting_materials/brocart_filaments
+    amount: 2

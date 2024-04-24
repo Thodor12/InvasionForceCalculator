@@ -1,0 +1,13 @@
+type: starship_weapons
+crafter: armstech
+inputs:
+  - component: armstech/polished_plasteel
+    amount: 4
+  - component: armstech/bondite
+    amount: 6
+  - component: armstech/farium
+    amount: 4
+  - component: armstech/durasteel
+    amount: 4
+  - component: armstech/polished_aluminium
+    amount: 4

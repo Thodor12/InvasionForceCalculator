@@ -1,0 +1,9 @@
+name: Polished Aluminium Armor Assembly Component
+crafter: armormech
+materials:
+  - material: scavenging/scavenged_metals/polished_aluminium
+    amount: 2
+  - material: scavenging/scavenged_compounds/polished_laminoid
+    amount: 2
+  - material: scavenging/crafting_materials/endothermic_flux
+    amount: 2

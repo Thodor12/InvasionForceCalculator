@@ -1,0 +1,13 @@
+type: crystal_capacitors
+crafter: synthweaving
+inputs:
+  - component: synthweaving/premium_lustrous
+    amount: 8
+  - component: synthweaving/gleaming_phond
+    amount: 4
+  - component: synthweaving/ruusan
+    amount: 4
+  - component: synthweaving/carbonic
+    amount: 4
+  - component: synthweaving/damind
+    amount: 6

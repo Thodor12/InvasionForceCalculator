@@ -1,0 +1,9 @@
+name: Ruusan Synth Bonded Attachment
+crafter: synthweaving
+materials:
+  - material: archaeology/power_crystals/ruusan
+    amount: 2
+  - material: archaeology/artifact_fragments/enigmatic
+    amount: 2
+  - material: archaeology/crafting_materials/zoosha_solution
+    amount: 2

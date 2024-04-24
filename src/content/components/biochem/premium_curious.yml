@@ -1,0 +1,9 @@
+name: Premium Curious Cell Graft
+crafter: biochem
+materials:
+  - material: bioanalysis/biochemical_sample/premium_unknown_microorganism
+    amount: 6
+  - material: bioanalysis/biochemical_compound/premium_virtulent_extract
+    amount: 6
+  - material: bioanalysis/medical_equipment/standard_recombinator
+    amount: 8

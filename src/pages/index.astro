@@ -1,0 +1,24 @@
+---
+import { getCollection } from "astro:content";
+import { Calculator } from "../components/Calculator.tsx";
+import Layout from "../layouts/Layout.astro";
+
+const crafters = await getCollection("crafters");
+const gatherers = await getCollection("gatherers");
+const recipes = await getCollection("recipes");
+const warSupplies = await getCollection("warsupplies");
+const components = await getCollection("components");
+const materials = await getCollection("materials");
+---
+
+<Layout title="Invasion Force Crafting Calculator">
+  <Calculator
+    client:only="react"
+    recipes={recipes}
+    crafters={crafters}
+    gatherers={gatherers}
+    warSupplies={warSupplies}
+    components={components}
+    materials={materials}
+  />
+</Layout>

@@ -1,0 +1,9 @@
+name: Bondite Armor Assembly Component
+crafter: armormech
+materials:
+  - material: scavenging/scavenged_metals/bondite
+    amount: 2
+  - material: scavenging/scavenged_compounds/fibermesh
+    amount: 2
+  - material: scavenging/crafting_materials/insulating_flux
+    amount: 2

@@ -1,0 +1,9 @@
+name: Metabolic Cell Graft
+crafter: biochem
+materials:
+  - material: bioanalysis/biochemical_sample/metabolic_enhancement_agent
+    amount: 2
+  - material: bioanalysis/biochemical_compound/artificial_microbe
+    amount: 2
+  - material: bioanalysis/medical_equipment/stim_plug
+    amount: 2

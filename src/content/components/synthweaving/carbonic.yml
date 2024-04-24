@@ -1,0 +1,9 @@
+name: Carbonic Synth Bonded Attachment
+crafter: synthweaving
+materials:
+  - material: archaeology/power_crystals/carbonic
+    amount: 2
+  - material: archaeology/artifact_fragments/primordial
+    amount: 2
+  - material: archaeology/crafting_materials/corondum_powder
+    amount: 2

@@ -1,0 +1,9 @@
+name: Premium Lustrous Synth Bonded Attachment
+crafter: synthweaving
+materials:
+  - material: archaeology/power_crystals/premium_lustrous_bondar
+    amount: 6
+  - material: archaeology/artifact_fragments/premium_lustrous
+    amount: 6
+  - material: archaeology/crafting_materials/standard_veda_cloth
+    amount: 8

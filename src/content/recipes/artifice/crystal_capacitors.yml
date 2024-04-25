@@ -1,0 +1,13 @@
+type: crystal_capacitors
+crafter: artifice
+inputs:
+  - component: artifice/premium_lustrous
+    amount: 8
+  - component: artifice/gleaming_phond
+    amount: 4
+  - component: artifice/ruusan
+    amount: 4
+  - component: artifice/carbonic
+    amount: 4
+  - component: artifice/damind
+    amount: 6

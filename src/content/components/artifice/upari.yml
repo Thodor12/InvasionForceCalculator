@@ -1,0 +1,9 @@
+name: Upari Synth Bonded Attachment
+crafter: synthweaving
+materials:
+  - material: archaeology/power_crystals/upari
+    amount: 2
+  - material: archaeology/artifact_fragments/primeval
+    amount: 2
+  - material: archaeology/crafting_materials/cortosis_substrate
+    amount: 2

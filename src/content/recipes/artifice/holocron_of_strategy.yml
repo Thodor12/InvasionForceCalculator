@@ -1,0 +1,13 @@
+type: holocron_of_strategy
+crafter: synthweaving
+inputs:
+  - component: synthweaving/iridescent_bondar
+    amount: 4
+  - component: synthweaving/gleaming_phond
+    amount: 4
+  - component: synthweaving/ruusan
+    amount: 4
+  - component: synthweaving/upari
+    amount: 4
+  - component: synthweaving/firkrann
+    amount: 6

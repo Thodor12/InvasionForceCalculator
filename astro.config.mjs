@@ -6,5 +6,6 @@ import react from "@astrojs/react";
 // https://astro.build/config
 export default defineConfig({
   site: 'https://thodor12.github.io',
+  base: 'InvasionForceCalculator',
   integrations: [react(), tailwind()]
 });

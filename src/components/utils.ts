@@ -25,7 +25,6 @@ export function getCollectionItem<C extends CollectionKey, E extends Omit<Collec
 }
 
 export function getCollectionItemForce<C extends CollectionKey, E extends Omit<CollectionEntry<C>, "data">>(id: string, collection: E[]): E {
-    console.log(id, collection);
     const result = getCollectionItem(id, collection);
     if (result === undefined) {
         throw Error("Item in collection does not exist!");
@@ -34,9 +33,9 @@ export function getCollectionItemForce<C extends CollectionKey, E extends Omit<C
 }
 
 export function getWarSupplyCount(counter: WarSuppliesInstance, globalCounters: GlobalWarSuppliesInstance[]) {
-    let amount = Math.max(0, counter.amount - counter.inventory);
+    let amount = counter.amount;
     for (const globalCounter of globalCounters) {
         amount += globalCounter.multiplier * (globalCounter.amount - globalCounter.inventory);
     }
-    return amount;
+    return Math.max(0, amount - counter.inventory);
 }

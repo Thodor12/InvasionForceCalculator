@@ -1,5 +1,5 @@
 name: Upari Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/upari
     amount: 2

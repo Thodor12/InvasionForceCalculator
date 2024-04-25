@@ -1,5 +1,5 @@
 name: Iridescent Bondar Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/iridescent_bondar
     amount: 2

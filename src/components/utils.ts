@@ -25,6 +25,7 @@ export function getCollectionItem<C extends CollectionKey, E extends Omit<Collec
 }
 
 export function getCollectionItemForce<C extends CollectionKey, E extends Omit<CollectionEntry<C>, "data">>(id: string, collection: E[]): E {
+    console.log(id, collection);
     const result = getCollectionItem(id, collection);
     if (result === undefined) {
         throw Error("Item in collection does not exist!");

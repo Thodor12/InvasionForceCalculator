@@ -1,5 +1,5 @@
 name: Carbonic Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/carbonic
     amount: 2

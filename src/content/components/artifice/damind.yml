@@ -1,5 +1,5 @@
 name: Damind Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/damind
     amount: 2

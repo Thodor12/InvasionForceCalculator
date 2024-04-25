@@ -1,5 +1,5 @@
 name: Firkrann Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/firkrann
     amount: 2

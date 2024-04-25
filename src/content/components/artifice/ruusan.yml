@@ -1,5 +1,5 @@
 name: Ruusan Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/ruusan
     amount: 2

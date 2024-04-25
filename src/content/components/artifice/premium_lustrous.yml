@@ -1,5 +1,5 @@
 name: Premium Lustrous Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/premium_lustrous_bondar
     amount: 6

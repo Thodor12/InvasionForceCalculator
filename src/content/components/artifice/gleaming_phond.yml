@@ -1,5 +1,5 @@
 name: Gleaming Phond Synth Bonded Attachment
-crafter: synthweaving
+crafter: artifice
 materials:
   - material: archaeology/power_crystals/gleaming_phond
     amount: 2
